@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Courier.CourierLoginTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 12.099 s - in Courier.CourierLoginTest
